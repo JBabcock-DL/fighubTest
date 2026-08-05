@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(tailwind)-text-7xl",
+  "slug": "web-(tailwind)-text-7xl",
+  "styleType": "text",
+  "name": "Web (Tailwind)/text-7xl",
+  "fontSize": 57.5,
+  "fontName": {
+    "family": "Inter",
+    "style": "Regular"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 58,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}

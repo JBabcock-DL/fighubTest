@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(tailwind)-text-base",
+  "slug": "web-(tailwind)-text-base",
+  "styleType": "text",
+  "name": "Web (Tailwind)/text-base",
+  "fontSize": 16,
+  "fontName": {
+    "family": "Inter",
+    "style": "Regular"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 24,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}
