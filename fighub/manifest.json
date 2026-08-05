@@ -2,13 +2,13 @@
   "v": 1,
   "kind": "fighub-manifest",
   "sha": "",
-  "writtenAt": "2026-08-05T14:11:02.182Z",
+  "writtenAt": "2026-08-05T14:13:14.778Z",
   "items": [
     {
       "kind": "component",
       "driftId": "cmp/2680d5b8-1bfa-4e44-aab8-ebe8346eae9d",
-      "repoHash": "6549eebf",
-      "figmaHash": "01cdef99"
+      "repoHash": "1bd48869",
+      "figmaHash": "1bd48869"
     },
     {
       "kind": "style",
@@ -1994,9 +1994,7 @@
       "kind": "token",
       "driftId": "var/c0fcdf50-eab9-4ce2-a078-7157e47b2e72",
       "repoHash": "0871ccc8",
-      "figmaHash": "0871ccc8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0871ccc8"
     },
     {
       "kind": "token",
