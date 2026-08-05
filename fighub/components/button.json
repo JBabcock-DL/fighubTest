@@ -1,0 +1,187 @@
+{
+  "v": 1,
+  "kind": "component-spec",
+  "name": "Button",
+  "framework": "react",
+  "id": "2680d5b8-1bfa-4e44-aab8-ebe8346eae9d",
+  "variantMatrix": {
+    "size": [
+      "default",
+      "xs",
+      "sm",
+      "lg"
+    ],
+    "state": [
+      "default",
+      "hover",
+      "pressed",
+      "focus-visible",
+      "disabled"
+    ],
+    "variant": [
+      "default",
+      "destructive",
+      "outline",
+      "secondary",
+      "ghost",
+      "link",
+      "icon"
+    ]
+  },
+  "props": [
+    {
+      "name": "Label",
+      "type": "string",
+      "default": "Button"
+    },
+    {
+      "name": "Leading icon",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "Trailing icon",
+      "type": "boolean",
+      "default": false
+    }
+  ],
+  "bindings": [
+    {
+      "selector": "root.bottomLeftRadius",
+      "variable": "Corner/Medium"
+    },
+    {
+      "selector": "root.bottomRightRadius",
+      "variable": "Corner/Medium"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/accent"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/background"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/destructive"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/destructive-hover"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/primary"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/primary-hover"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/secondary"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "bg/secondary-hover"
+    },
+    {
+      "selector": "root.gap",
+      "variable": "gap/1"
+    },
+    {
+      "selector": "root.gap",
+      "variable": "gap/1_5"
+    },
+    {
+      "selector": "root.gap",
+      "variable": "gap/2"
+    },
+    {
+      "selector": "root.paddingBottom",
+      "variable": "padding/py/2"
+    },
+    {
+      "selector": "root.paddingLeft",
+      "variable": "padding/px/2"
+    },
+    {
+      "selector": "root.paddingLeft",
+      "variable": "padding/px/3"
+    },
+    {
+      "selector": "root.paddingLeft",
+      "variable": "padding/px/4"
+    },
+    {
+      "selector": "root.paddingLeft",
+      "variable": "padding/px/6"
+    },
+    {
+      "selector": "root.paddingRight",
+      "variable": "padding/px/2"
+    },
+    {
+      "selector": "root.paddingRight",
+      "variable": "padding/px/3"
+    },
+    {
+      "selector": "root.paddingRight",
+      "variable": "padding/px/4"
+    },
+    {
+      "selector": "root.paddingRight",
+      "variable": "padding/px/6"
+    },
+    {
+      "selector": "root.paddingTop",
+      "variable": "padding/py/2"
+    },
+    {
+      "selector": "root.stroke",
+      "variable": "border/border"
+    },
+    {
+      "selector": "root.topLeftRadius",
+      "variable": "Corner/Medium"
+    },
+    {
+      "selector": "root.topRightRadius",
+      "variable": "Corner/Medium"
+    },
+    {
+      "selector": "text/label.fill",
+      "variable": "text/accent-foreground"
+    },
+    {
+      "selector": "text/label.fill",
+      "variable": "text/destructive-foreground"
+    },
+    {
+      "selector": "text/label.fill",
+      "variable": "text/foreground"
+    },
+    {
+      "selector": "text/label.fill",
+      "variable": "text/primary"
+    },
+    {
+      "selector": "text/label.fill",
+      "variable": "text/primary-foreground"
+    },
+    {
+      "selector": "text/label.fill",
+      "variable": "text/secondary-foreground"
+    }
+  ],
+  "layout": {
+    "direction": "horizontal",
+    "gap": "8",
+    "sizing": {
+      "horizontal": "hug",
+      "vertical": "hug"
+    }
+  },
+  "slug": "button"
+}

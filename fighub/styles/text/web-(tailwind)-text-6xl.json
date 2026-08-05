@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(tailwind)-text-6xl",
+  "slug": "web-(tailwind)-text-6xl",
+  "styleType": "text",
+  "name": "Web (Tailwind)/text-6xl",
+  "fontSize": 48,
+  "fontName": {
+    "family": "Inter",
+    "style": "Regular"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 48,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}
