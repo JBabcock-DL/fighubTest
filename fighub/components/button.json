@@ -103,6 +103,10 @@
       "variable": "padding/py/2"
     },
     {
+      "selector": "root.paddingBottom",
+      "variable": "padding/py/4"
+    },
+    {
       "selector": "root.paddingLeft",
       "variable": "padding/px/2"
     },
@@ -137,6 +141,10 @@
     {
       "selector": "root.paddingTop",
       "variable": "padding/py/2"
+    },
+    {
+      "selector": "root.paddingTop",
+      "variable": "padding/py/4"
     },
     {
       "selector": "root.stroke",
